@@ -2,22 +2,22 @@
 API for [**Kronos-Engine**](https://github.com/Soviet-Cat/Kronos-Engine).
 
 ## Requirements
-Kronos-API <u>***only***</u> supports Windows **10** or newer. <br>
-This project is <u>***only***</u> tested on the below system:
+Kronos-API <ins>***only***</ins> supports Windows **10** or newer. <br>
+This project is <ins>***only***</ins> tested on the below system:
 * **Windows** 11
 * **i7**-10700KF
 * **NVIDIA GeForce RTX** 3070
 
-Support for other platforms, architectures or configurations is <u>***not***</u> guaranteed. <br>
-Any inconsistencies, errors or issues encountered outside of the tested environment are <u>***not***</u> the responsibility of the developers.
+Support for other platforms, architectures or configurations is <ins>***not***</ins> guaranteed. <br>
+Any inconsistencies, errors or issues encountered outside of the tested environment are <ins>***not***</ins> the responsibility of the developers.
 
-This project <u>***only***</u> supports building with <u>[**CMake**](https://cmake.org/)</u>. <br>
-A ***minimum* CMake** version of <u>***3.20***</u> is required. <br>
+This project <ins>***only***</ins> supports building with <ins>[**CMake**](https://cmake.org/)</ins>. <br>
+A ***minimum* CMake** version of <ins>***3.20***</ins> is required. <br>
 
-This project requires a ***C++*** compiler that supports a ***C++ standard*** of <u>***20***</u>.
+This project requires a ***C++*** compiler that supports a ***C++ standard*** of <ins>***20***</ins>.
 
 ## Build Instructions
-Kronos-API <u>***only***</u> supports building with <u>[**CMake**](https://cmake.org/)</u>.
+Kronos-API <ins>***only***</ins> supports building with <ins>[**CMake**](https://cmake.org/)</ins>.
 
 To ***configure***, run:
 ~~~
@@ -35,7 +35,7 @@ cmake --install build --prefix install
 ~~~
 
 Configuration, build, install and package scripts are supplied for user simplicity. <br>
-Note that these scripts are ***batch*** files, that <u>***need***</u> to be run in ***Windows Command Prompt***.<br>
+Note that these scripts are ***batch*** files, that <ins>***need***</ins> to be run in ***Windows Command Prompt***.<br>
 For help on usage of any of these scripts, run:
 ~~~
 [script_name] help
