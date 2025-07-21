@@ -1,18 +1,18 @@
 # Kronos-API
-API for [**Kronos-Engine**](https://github.com/Soviet-Cat/Kronos-Engine). <br/> 
+API for [**Kronos-Engine**](https://github.com/Soviet-Cat/Kronos-Engine).
 
 ## Requirements
-Kronos-API <ins>***only***</ins> supports Windows **10** or newer. <br/>
-This project is <ins>***only***</ins> tested on the below system:
+Kronos-API <u>***only***</u> supports Windows **10** or newer. <br>
+This project is <u>***only***</u> tested on the below system:
 * **Windows** 11
 * **i7**-10700KF
 * **NVIDIA GeForce RTX** 3070
 
-Support for other platforms, architectures or configurations is <ins>***not***</ins> guaranteed. <br/>
-Any inconsistencies, errors or issues encountered outside of the tested environment are <ins>***not***</ins> the responsibility of the developers.
+Support for other platforms, architectures or configurations is <u>***not***</u> guaranteed. <br>
+Any inconsistencies, errors or issues encountered outside of the tested environment are <u>***not***</u> the responsibility of the developers.
 
 ## Build Instructions
-Kronos-API is to be built using <ins>[**CMake**](https://cmake.org/)</ins>.
+Kronos-API is to be built using <u>[**CMake**](https://cmake.org/)</u>.
 
 To ***configure***, run:
 ~~~
@@ -29,7 +29,8 @@ To ***install***, run:
 cmake --install build --prefix install
 ~~~
 
-Configuration, build, install and package scripts are supplied for user simplicity. <br/>
+Configuration, build, install and package scripts are supplied for user simplicity. <br>
+Note that these scripts are ***batch*** files, that <u>***need***</u> to be run in ***Windows Command Prompt***.<br>
 For help on usage of any of these scripts, run:
 ~~~
 [script_name] help
