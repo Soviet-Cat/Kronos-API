@@ -11,8 +11,13 @@ This project is <u>***only***</u> tested on the below system:
 Support for other platforms, architectures or configurations is <u>***not***</u> guaranteed. <br>
 Any inconsistencies, errors or issues encountered outside of the tested environment are <u>***not***</u> the responsibility of the developers.
 
+This project <u>***only***</u> supports building with <u>[**CMake**](https://cmake.org/)</u>. <br>
+A ***minimum* CMake** version of <u>***3.20***</u> is required. <br>
+
+This project requires a ***C++*** compiler that supports a ***C++ standard*** of <u>***20***</u>.
+
 ## Build Instructions
-Kronos-API is to be built using <u>[**CMake**](https://cmake.org/)</u>.
+Kronos-API <u>***only***</u> supports building with <u>[**CMake**](https://cmake.org/)</u>.
 
 To ***configure***, run:
 ~~~
