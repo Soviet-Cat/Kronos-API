@@ -11,13 +11,13 @@ This project is <ins>***only***</ins> tested on the below system:
 Support for other platforms, architectures or configurations is <ins>***not***</ins> guaranteed. <br>
 Any inconsistencies, errors or issues encountered outside of the tested environment are <ins>***not***</ins> the responsibility of the developers.
 
-This project <ins>***only***</ins> supports building with <ins>[**CMake**](https://cmake.org/)</ins>. <br>
+This project <ins>***only***</ins> supports building with [**CMake**](https://cmake.org/). <br>
 A ***minimum* CMake** version of <ins>***3.20***</ins> is required. <br>
 
 This project requires a ***C++*** compiler that supports a ***C++ standard*** of <ins>***20***</ins>.
 
 ## Build Instructions
-Kronos-API <ins>***only***</ins> supports building with <ins>[**CMake**](https://cmake.org/)</ins>.
+Kronos-API <ins>***only***</ins> supports building with [**CMake**](https://cmake.org/).
 
 To ***configure***, run:
 ~~~
