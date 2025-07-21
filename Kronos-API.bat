@@ -38,7 +38,7 @@ call configure %BUILD_TYPE%
 call build
 call install
 call :getCMakeCache
-call package %CMAKE_SYSTEM_NAME% %CMAKE_SYSTEM_PROCESSOR% %CMAKE_BUILD_TYPE% %PROJECT_VERSION%
+call package %PROJECT_VERSION% %CMAKE_BUILD_TYPE% %CMAKE_SYSTEM_NAME% %CMAKE_SYSTEM_PROCESSOR%
 exit /b
 
 :showHelp
