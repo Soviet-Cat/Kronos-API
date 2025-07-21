@@ -2,16 +2,15 @@
 setlocal enabledelayedexpansion
 
 if /I "%1"=="help" goto showHelp
-if /I "%1"=="" goto showHelp
 if /I "%1"=="Release" goto runCMake
 if /I "%1"=="Debug" goto runCMake
+
+goto showHelp
 
 set "CMAKE_SYSTEM_NAME="
 set "CMAKE_SYSTEM_PROCESSOR="
 set "CMAKE_BUILD_TYPE="
 set "PROJECT_VERSION="
-
-goto getCMakeCache
 
 :getCMakeCache
 echo Retrieving cache...
