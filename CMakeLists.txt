@@ -25,7 +25,7 @@ set_target_properties(KronosAPI
 )
 target_compile_definitions(KronosAPI
     PRIVATE
-        KRONOSAPI_EXPORT
+        KAPI_EXPORT
 )
 target_include_directories(KronosAPI
     PUBLIC
@@ -85,3 +85,9 @@ install(
     NAMESPACE KronosAPI::
     DESTINATION lib/cmake/KronosAPI
 )
+
+# Cache necessary variables
+set(PROJECT_VERSION ${PROJECT_VERSION} CACHE STRING "Project version")
+set(CMAKE_SYSTEM_NAME ${CMAKE_SYSTEM_NAME} CACHE STRING "CMake system name")
+set(CMAKE_SYSTEM_PROCESSOR ${CMAKE_SYSTEM_PROCESSOR} CACHE STRING "CMake system processor")
+set(CMAKE_BUILD_TYPE ${CMAKE_BUILD_TYPE} CACHE STRING "CMake build type")

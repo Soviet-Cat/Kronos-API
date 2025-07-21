@@ -1,4 +1,4 @@
 # ninja log v6
-18	70	7747562939663602	CMakeFiles/KronosAPI.dir/src/test.cpp.obj	483fb61cf4bb18f1
-70	150	7747562940911808	C:/Users/harri/OneDrive/Desktop/Kronos-API/bin/libKronosAPI.dll	5f7146e915d0aa86
-70	150	7747562940911808	C:/Users/harri/OneDrive/Desktop/Kronos-API/lib/libKronosAPI.dll.a	5f7146e915d0aa86
+17	69	7747672925038668	CMakeFiles/KronosAPI.dir/src/test.cpp.obj	a0de3053d483a37b
+69	154	7747672926337785	C:/Users/harri/OneDrive/Desktop/Kronos-API/bin/libKronosAPI.dll	30209b6de64ff5c
+69	154	7747672926337785	C:/Users/harri/OneDrive/Desktop/Kronos-API/lib/libKronosAPI.dll.a	30209b6de64ff5c

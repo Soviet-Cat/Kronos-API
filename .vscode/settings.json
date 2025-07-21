@@ -1,8 +1,13 @@
 {
     "cSpell.words": [
+        "enabledelayedexpansion",
         "KAPI",
         "KE",
         "KRONOSAPI",
-        "KRONOSENGINE"
+        "KRONOSENGINE",
+        "sysinfo"
+    ],
+    "C_Cpp.default.defines": [
+        "KAPI_EXPORT"
     ]
 }

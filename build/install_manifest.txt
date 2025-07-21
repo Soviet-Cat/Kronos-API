@@ -4,4 +4,4 @@ C:/Users/harri/OneDrive/Desktop/Kronos-API/install/include/KronosAPI/test.hpp
 C:/Users/harri/OneDrive/Desktop/Kronos-API/install/lib/cmake/KronosAPI/KronosAPIConfig.cmake
 C:/Users/harri/OneDrive/Desktop/Kronos-API/install/lib/cmake/KronosAPI/KronosAPIConfigVersion.cmake
 C:/Users/harri/OneDrive/Desktop/Kronos-API/install/lib/cmake/KronosAPI/KronosAPITargets.cmake
-C:/Users/harri/OneDrive/Desktop/Kronos-API/install/lib/cmake/KronosAPI/KronosAPITargets-noconfig.cmake
+C:/Users/harri/OneDrive/Desktop/Kronos-API/install/lib/cmake/KronosAPI/KronosAPITargets-release.cmake

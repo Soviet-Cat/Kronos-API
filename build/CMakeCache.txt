@@ -22,7 +22,7 @@ CMAKE_AR:FILEPATH=E:/msys64/mingw64/bin/ar.exe
 
 //Choose the type of build, options are: None Debug Release RelWithDebInfo
 // MinSizeRel ...
-CMAKE_BUILD_TYPE:STRING=
+CMAKE_BUILD_TYPE:STRING=Release
 
 //CXX compiler
 CMAKE_CXX_COMPILER:FILEPATH=E:/msys64/mingw64/bin/c++.exe
@@ -219,6 +219,12 @@ CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 //Path to a program.
 CMAKE_STRIP:FILEPATH=E:/msys64/mingw64/bin/strip.exe
 
+//CMake system name
+CMAKE_SYSTEM_NAME:STRING=Windows
+
+//CMake system processor
+CMAKE_SYSTEM_PROCESSOR:STRING=AMD64
+
 //Path to a program.
 CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 
@@ -236,6 +242,9 @@ KronosAPI_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 KronosAPI_SOURCE_DIR:STATIC=C:/Users/harri/OneDrive/Desktop/Kronos-API
+
+//Project version
+PROJECT_VERSION:STRING=1.0
 
 
 ########################
