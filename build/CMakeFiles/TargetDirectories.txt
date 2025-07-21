@@ -1,0 +1,7 @@
+C:/Users/harri/OneDrive/Desktop/Kronos-API/build/CMakeFiles/KronosAPI.dir
+C:/Users/harri/OneDrive/Desktop/Kronos-API/build/CMakeFiles/edit_cache.dir
+C:/Users/harri/OneDrive/Desktop/Kronos-API/build/CMakeFiles/rebuild_cache.dir
+C:/Users/harri/OneDrive/Desktop/Kronos-API/build/CMakeFiles/list_install_components.dir
+C:/Users/harri/OneDrive/Desktop/Kronos-API/build/CMakeFiles/install.dir
+C:/Users/harri/OneDrive/Desktop/Kronos-API/build/CMakeFiles/install/local.dir
+C:/Users/harri/OneDrive/Desktop/Kronos-API/build/CMakeFiles/install/strip.dir
